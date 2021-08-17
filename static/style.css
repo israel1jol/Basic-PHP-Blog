@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body{
+    background: linear-gradient(to bottom left, rgba(235, 239, 243, 0.959), rgba(230, 232, 235, 0.904), rgba(228, 235, 243, 0.904));
+}
+
+.post-box{
+    width:400px;
+}
+.cus-header{
+    width: 300px;
+    margin: auto;
+}
+.post-body{
+    font-size: 25px;
+    word-spacing: 1rem;
+    line-height: 1.2em;
+}
+.custom-link{
+    margin: 7px 30px;
+}
+
+.comment-form{
+    width:400px;
+}
